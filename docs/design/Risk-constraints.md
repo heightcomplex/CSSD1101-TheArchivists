@@ -12,4 +12,5 @@
 
 ### 3. Risk/constraint 3: Difficult to find chapters where the user left off
 
-- When opening a new book to read the most recent chapters show up first and it is difficult to get to the first books in the series
+- When opening a new book to read the most recent chapters show up first and it is 
+  difficult to get to the first books in the series
