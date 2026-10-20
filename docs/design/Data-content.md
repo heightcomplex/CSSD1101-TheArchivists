@@ -1,0 +1,22 @@
+# Data & Content
+## Context:
+This segment will include what the website will hold in term of data and content that will be displayed for public view. That will include anything about user information and uploaded information on the website
+
+## Content
+- offline access
+    - indie file availability
+        - verification required for editing access
+    - no login required for website access
+- uploaded book information
+    - images
+    - text
+        - hashtags
+        - book marks
+- reviews
+    - rating system
+
+## Decisions
+- verify whether or not the list is adequate, too much or too little - alyssa, october 20th
+
+## Next Steps
+- [ ] verify with groupmates - alyssa, october 20th
