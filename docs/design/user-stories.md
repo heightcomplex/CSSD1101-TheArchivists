@@ -1,6 +1,6 @@
 # <User-Stories>
 
-** Context
+## Context
 This document is a completed "Lab 2 - Team Requirements Packet" for a project team named "The Archivists". It outlines the design process and user requirements for a manga/manhwa reading app, detailing user pain points—such as inefficient UI, bad genre categorization, and lost reading progress—and proposing a list-style interface with advanced filtering and bookshelf features.
 
 ### Story 1
