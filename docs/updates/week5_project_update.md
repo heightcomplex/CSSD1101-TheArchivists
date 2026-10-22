@@ -5,14 +5,14 @@
 ---
 
 ## Cover Info
-- **Team name:** __________________________
-- **Project title:** ________________________
-- **Members (names & emails):** __________________________________________
-- **Update #:** XX   |   **Date:** ________ (YYYY-MM-DD)
+- **Team name:** The Archivists
+- **Project title:** TBD
+- **Members (names & emails):** Sylvia Ip(sylviaip@my.yorku.ca)
+- **Update #:** 01   |   **Date:** 2026-10-22 (YYYY-MM-DD)
 
 ---
 
-## Topic — __________________________
+## Topic — Week 5 Update
 
 ### At‑a‑glance
 | Overall status | % complete (this week) | Top risk (one line) | Ask for TA/instructor |
@@ -20,13 +20,13 @@
 | On track / At risk | __% | … | … |
 
 ### What we shipped/completed this week
-- 
-- 
-- 
+- Set up Github wiki page
+- Set up Github repository
+- Preliminary text for user stories, architecture, data/content, and risks/constraints wiki page
 
 ### Evidence & Links (paste URLs)
-- 
-- 
+- https://github.com/sylvia19ip/CSSD1161-TheArchivists
+- https://github.com/sylvia19ip/CSSD1161-TheArchivists/wiki
 - 
 
 ### Decisions made (owner, date)
@@ -59,7 +59,7 @@
 ---
 
 ## Submission Block (paste into LMS)
-- Repo (main): ________
-- Wiki Home: ________
+- Repo (main): https://github.com/sylvia19ip/CSSD1161-TheArchivists/
+- Wiki Home: https://github.com/sylvia19ip/CSSD1161-TheArchivists/wiki
 - This document (uploaded)
-- Any notes for TA: ________
+- Any notes for TA: N/A
